@@ -1,0 +1,2 @@
+# Smart-16-2-LCD-Character-Movement-with-LDR-Based-Mode-Selection
+An Arduino-based smart LCD project that displays and moves a custom character using manual and automatic modes. Push buttons control movement manually, while an LDR selects automatic mode based on light intensity. Automatic mode provides three buzzer beeps and LED blinks, with button debouncing for reliable operation and smooth control.
